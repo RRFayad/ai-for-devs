@@ -39,3 +39,16 @@
 - Remember I can write the prompt in a comment
 
 - `cmd+i` opens the chat, and I ahve different options
+
+## Configuring Copilot
+
+- Among the settings, there are 2 Max finds to be particularly interesting:
+
+  - **Use Instruction Files**
+
+    - I can create a file with general guidelines
+
+  - **Temporal Context**
+    - Consider the last changes, may be usefiul fpor exampe qhen ccreating an util functions - so it can suggest the import and implementation
+
+- So, the key point is to be aware that those settings exist, and check them sometimes, as they get updated frequently
