@@ -25,7 +25,7 @@
 
 ### AUtocompletion
 
-- When autocompleting, pahy attention to the number of suggestions
+- When autocompleting, we can hover over the suggestion, and the number of suggestions
 
 - Also there's the _complete the word_
 
@@ -37,3 +37,5 @@
 ### Mastering Prompts
 
 - Remember I can write the prompt in a comment
+
+- `cmd+i` opens the chat, and I ahve different options
