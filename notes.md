@@ -52,3 +52,13 @@
     - Consider the last changes, may be usefiul fpor exampe qhen ccreating an util functions - so it can suggest the import and implementation
 
 - So, the key point is to be aware that those settings exist, and check them sometimes, as they get updated frequently
+
+## Code Actions (Good for asking for review / refactoring)
+
+- Select the code, and the AI sparks will appear
+  **Easy way to ask for a review**
+
+## Sidebar for more complex tasks
+
+- Side bar chat for answers besides simply code
+  - Also consider the buttons options (apply, compare, etc)
