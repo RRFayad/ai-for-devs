@@ -62,3 +62,13 @@
 
 - Side bar chat for answers besides simply code
   - Also consider the buttons options (apply, compare, etc)
+
+## Adding Context
+
+- Add FIles for context
+
+  - It shows it has the opened files context, but also, we can add files for context
+  - I can type # in the prompt
+
+- Other stuff for context: @
+  - @vscode - May ask about vscode setting for example
